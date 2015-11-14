@@ -1,0 +1,18 @@
+module.exports = {
+  // Server Settings
+  "host"   : "http://localhost",
+  "port"   : "8087",
+
+  // Slackbot settings - leave blank to use configured defaults
+  "name": "",
+  "icon": "",
+
+  // Classy Auth Token
+  "classy_token": "",
+
+  // The Slack Incoming Webhook URI
+  "uri": "INCOMING_WEBHOOK_URL",
+
+  // The Slack Slash Command Token
+  "token": "SLASH_COMMAND_TOKEN",
+};

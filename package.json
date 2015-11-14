@@ -1,0 +1,20 @@
+{
+  "name": "slacker",
+  "version": "1.0.0",
+  "description": "A Slack integration for Classy.",
+  "main": "app.js",
+  "keywords": [
+    "classy",
+    "slack"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "async": "^1.5.0",
+    "clearbit": "^1.2.0",
+    "express": "3.1.0",
+    "lodash": "^3.10.1",
+    "logme": "^0.4.0",
+    "request": "^2.65.0",
+    "underscore": "^1.8.3"
+  }
+}
